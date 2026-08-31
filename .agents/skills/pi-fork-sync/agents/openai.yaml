@@ -1,0 +1,4 @@
+interface:
+  display_name: "pi Fork 同步"
+  short_description: "pi 仓库官方 origin + 个人 fork 双远程 git 工作流"
+  default_prompt: "同步官方最新代码到我的 personal 分支并推送"
